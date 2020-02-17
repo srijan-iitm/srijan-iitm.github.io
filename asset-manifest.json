@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.6684347e.chunk.css",
-    "main.js": "/static/js/main.644946da.chunk.js",
-    "main.js.map": "/static/js/main.644946da.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.453d516c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.453d516c.js.map",
+    "main.css": "/static/css/main.54084989.chunk.css",
+    "main.js": "/static/js/main.5ad019c2.chunk.js",
+    "main.js.map": "/static/js/main.5ad019c2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.04ff6162.js",
+    "runtime-main.js.map": "/static/js/runtime-main.04ff6162.js.map",
     "static/css/2.b6a8f24c.chunk.css": "/static/css/2.b6a8f24c.chunk.css",
-    "static/js/2.55c34c52.chunk.js": "/static/js/2.55c34c52.chunk.js",
-    "static/js/2.55c34c52.chunk.js.map": "/static/js/2.55c34c52.chunk.js.map",
+    "static/js/2.93c83088.chunk.js": "/static/js/2.93c83088.chunk.js",
+    "static/js/2.93c83088.chunk.js.map": "/static/js/2.93c83088.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.63c6cfa2147b61602f8249d295c0cce4.js": "/precache-manifest.63c6cfa2147b61602f8249d295c0cce4.js",
+    "precache-manifest.035f2d325bbc5e657c1c84241fbc2f24.js": "/precache-manifest.035f2d325bbc5e657c1c84241fbc2f24.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.b6a8f24c.chunk.css.map": "/static/css/2.b6a8f24c.chunk.css.map",
-    "static/css/main.6684347e.chunk.css.map": "/static/css/main.6684347e.chunk.css.map",
-    "static/js/2.55c34c52.chunk.js.LICENSE.txt": "/static/js/2.55c34c52.chunk.js.LICENSE.txt",
+    "static/css/main.54084989.chunk.css.map": "/static/css/main.54084989.chunk.css.map",
+    "static/js/2.93c83088.chunk.js.LICENSE.txt": "/static/js/2.93c83088.chunk.js.LICENSE.txt",
     "static/media/QR.png": "/static/media/QR.79308f43.png",
     "static/media/amit.jpg": "/static/media/amit.5a93f4e0.jpg",
     "static/media/amitjr.jpg": "/static/media/amitjr.dfb461b8.jpg",
@@ -28,16 +28,16 @@
     "static/media/nirmaan.png": "/static/media/nirmaan.469ba028.png",
     "static/media/puru.jpg": "/static/media/puru.7c3f606d.jpg",
     "static/media/raj.jpg": "/static/media/raj.23cb2bbb.jpg",
-    "static/media/sanjeev.jpg": "/static/media/sanjeev.00a84bd6.jpg",
+    "static/media/sanjeev.jpg": "/static/media/sanjeev.78ddc017.jpg",
     "static/media/shivam.jpg": "/static/media/shivam.e1f37b34.jpg",
     "static/media/vikas.jpg": "/static/media/vikas.87473077.jpg",
     "static/media/vikash.jpg": "/static/media/vikash.2ede1153.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.453d516c.js",
+    "static/js/runtime-main.04ff6162.js",
     "static/css/2.b6a8f24c.chunk.css",
-    "static/js/2.55c34c52.chunk.js",
-    "static/css/main.6684347e.chunk.css",
-    "static/js/main.644946da.chunk.js"
+    "static/js/2.93c83088.chunk.js",
+    "static/css/main.54084989.chunk.css",
+    "static/js/main.5ad019c2.chunk.js"
   ]
 }
