@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Kalam&display=swap');
+
+#TopSection{
+    min-height: 110vh;
+    background-attachment: fixed;
+    background-image: url("./img/bg10.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media screen and (min-width: 580px){
+    .cardSrjan{
+        width: 50vw;
+    }
+}
+
+@media screen and (max-width: 580px){
+    .cardSrjan{
+        width: 90vw;
+    }
+}
+
+@media screen and (min-width: 1084px){
+    .cardSrjan{
+        width: 40vw;
+    }
+}
+
+@media screen and (min-width: 1352px){
+    .cardSrjan{
+        width: 35vw;
+    }
+}
+
+@media screen and (min-width: 400px) and (min-height: 740px){
+.aosSrjan1{
+    padding-top: 5vh;
+    margin-bottom: 2vh;
+    padding-left: 5vw;
+}
+
+.aosSrjan2{
+    padding-top: 5vh;
+    margin-bottom: 2vh;
+    padding-left: 5vw;
+}
+
+.aosSrjan3{
+    padding-top: 1vh;
+    margin-bottom: 2vh;
+    padding-left: 5vw;
+}
+
+.aosSrjan4{
+    padding-top: 2vh;
+    margin-bottom: 2vh;
+    padding-left: 5vw;
+}
+}
+
+@media screen and (max-width: 400px) and (max-height: 740px){
+    .aosSrjan1{
+        padding-top: 2vh;
+        padding-left: 5vw;
+    }
+    
+    .aosSrjan2{
+        padding-top: 2vh;
+        padding-left: 5vw;
+    }
+    
+    .aosSrjan3{
+        padding-top: 2vh;
+        padding-left: 5vw;
+    }
+    
+    .aosSrjan4{
+        padding-top: 2vh;
+        padding-left: 5vw;
+    }
+    #hindi-name{
+        font-size: 25px;
+        font-weight: 400;
+    }
+    
+    #english-name{
+        font-size: 25px;
+        font-weight: 400;
+    }
+}
+
+.date {
+    margin-left: 4px;    
+}
+
+#logo{
+    width: 40%
+}
+
+#card-nirmaan-logo{
+    background-color: rgba(255, 255, 255, 0);
+    width: 100px;
+    border-style: none;
+}
+
+#card-iit-logo{
+    background-color: rgba(255, 255, 255, 0);
+    width: 100px;
+    border-style: none;
+}
+
+#logotop{
+    width: 100%;
+}
+
+#logo_iit{
+    width: 100%;
+}
+
+#cardTop{
+    opacity: 0.8;
+}
+
+#cardSecond{
+    opacity: 0.9;
+}
+
+#hindi-name{
+    font-family: 'Kalam', cursive;
+}
+
+#english-name{
+    font-family: 'Dancing Script', cursive;
+}
+
+#hrTop{
+    height: 10px;
+    background-color: white;
+}
+
+#SecondSection{
+    margin-top: -10vh;
+}
+
+#presenter{
+    font-family: 'Playfair Display', serif;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+}
+
+#events{
+    min-height: 110vh;
+}
+
+.cardpic{
+    width: 100%;
+    border-radius: 20px;
+}
+
+#eventcontainer{
+    margin-top: 10px;
+    background-color: transparent;
+}
+
+.cards{
+    border-radius: 20px;
+    width: 80%;
+}
+
+.card-left{
+    width: 80%
+}
+
+.card-right{    
+    width: 80%
+}
+
+@media screen and (max-width: 767px){
+    .cardpic{
+        display: none;
+    }
+
+    .card-left{
+        width: 60%
+    }
+} 
+
+/* Contact Section */
+#contact{
+    margin-top: 10vh;
+}
+
+#contact-theme{
+    min-height: 400px;
+    background-attachment: fixed;
+    background-image: url("./img/bg2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#card-contact{
+    margin-top: -100px;
+    margin-bottom: 50px;
+}
+
+#card-contact-body{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.socialicon{
+    margin-left: 10px;
+}
+
+.avatar{
+    width: 150px
+}
